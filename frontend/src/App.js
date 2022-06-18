@@ -29,6 +29,9 @@ function App() {
         </main>
         <footer>
           <div className='text-center bg-color-primary'>Enes Bahan Morova Tüm Hakları Saklıdır</div>
+          <div>
+            deneme
+          </div>
         </footer>
       </div>
     </BrowserRouter>
